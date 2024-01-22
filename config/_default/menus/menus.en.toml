@@ -1,51 +1,51 @@
+# [[main]]
+#   name = "Home"
+#   pageRef = "/"
+#   weight = 1
+
 [[main]]
-  name = "Home"
-  pageRef = "/"
+  name = "Call for Papers"
+  pageRef = "/call-for-papers/"
   weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "/tags"
-  weight = 20
+  name = "Committees"
+  pageRef = "/committees/"
+  weight = 30
 
-[[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
-  weight = 10
+[[main]]
+  name = "Keynotes"
+  pageRef = "/keynotes/"
+  weight = 30
+
+[[main]]
+  name = "Program"
+  pageRef = "/program/"
+  weight = 40
+
+[[main]]
+  name = "Awards"
+  pageRef = "/awards/"
+  weight = 50
+
+[[main]]
+  name = "Venue"
+  pageRef = "/venue/"
+  weight = 60
+
+[[main]]
+  name = "Registration"
+  pageRef = "/registration/"
+  weight = 100
+
+# [[social]]
+#   name = "Twitter"
+#   pre = "fab x-twitter"
+#   url = "https://twitter.com/runverif"
+#   weight = 10
 
 [[social]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/"
+  url = "https://github.com/runtime-verification"
   weight = 20
-
-[[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
-  weight = 30
-
-# toml-docs-start sample-navigation
-[[sample]]
-  name = "Blog"
-  pageRef = "/blog/"
-  weight = 10
-
-[[sample]]
-  name = "Projects"
-  pageRef = "/projects/"
-  weight = 20
-
-[[sample]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
-
-[[sample]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
-  weight = 2
-# toml-docs-end sample-navigation

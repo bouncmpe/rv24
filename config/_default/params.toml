@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "Runtime Verification Conference 2024"
     enableDarkMode = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
@@ -31,20 +31,20 @@
     showSCSS = false
     purgeHTMLComments = false
 
-[docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
-    checkVersion = false
-
 [home]
-    # sections = ["posts"]
     fullCover = false
-    centerHeadline = false
+    centerHeadline = true
     style = ""
+    sections = ["summary", "papers", "sponsors"]
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/img/rv24_logo.svg"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -57,6 +57,29 @@
 
 [messages]
     placement = "bottom-right"
+
+[sections]
+    [sections.summary]
+        title = "Conference Information"
+        layout = "list"
+        sort = "weight"
+        homepage = 2
+        header = "none"
+        footer = "none"
+        style = "justify-content-center"
+    [sections.sponsors]
+        title = "Sponsors"
+        layout = "card"
+        sort = "weight"
+        reverse = false
+        background = ""
+        style = "border-0"
+        cols = 3
+        padding = "3"
+        header = "none"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 3
 
 [sharing]
     enabled = true
@@ -81,12 +104,6 @@
     url = "https://www.facebook.com/sharer.php?u={url}"
     icon = "fab facebook"
     weight = 30
-
-[[sharing.providers]]
-    name = "WhatsApp"
-    url = "whatsapp://send?text={title}%20{url}"
-    icon = "fab whatsapp"
-    weight = 40
 
 [[sharing.providers]]
     name = "email"
@@ -118,7 +135,7 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#d43900"
+    primary = "#581845" # "#d43900"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
@@ -141,13 +158,13 @@
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    github = "https://github.com/bouncmpe/rv24"
     section = "blog"
     [author]
-        name = "Mark Dumay"
+        name = "Dogan Ulus"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        linkedin = "https://www.linkedin.com/in/doganulus/"
+        github = "https://github.com/doganulus"
     [logo]
         url = "img/logo512x512.png"
         width = 512
@@ -161,5 +178,3 @@
     images = ["logo.png"]
     locale = "en_US"
 
-[links]
-    hinode = "https://gethinode.com"

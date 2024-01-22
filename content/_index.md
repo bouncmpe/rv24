@@ -1,15 +1,15 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
-thumbnail:
-    url: /img/sunrise.jpg
-    author: Harris Vo
-    authorURL: https://unsplash.com/@hoanvokim
-    origin: https://unsplash.com/photos/ZX6BPboJrYk
-    originName: Unsplash
+title: Runtime Verification 2024
+description: 15-18 October 2024, Istanbul
+thumbnail: https://res.cloudinary.com/dkib2v4rl/image/upload/v1679840859/kitten_blue_mosque_istanbul_large_fe118e20a7.jpg
 actions:
-  get-started:
-    url: "https://gethinode.com/docs"
-    title: "Get started"
-    icon: "fas book-open"
+  calls:
+    url: "/call-for-papers"
+    title: "Call for Papers"
+    #icon: "fas book-open"
+    weight: 1
+  venue:
+    url: "/venue"
+    title: "Venue"
+    weight: 2
 ---
