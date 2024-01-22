@@ -5,37 +5,37 @@
 
 [[main]]
   name = "Call for Papers"
-  pageRef = "/call-for-papers/"
+  pageRef = "call-for-papers"
   weight = 10
 
 [[main]]
   name = "Committees"
-  pageRef = "/committees/"
+  pageRef = "committees"
   weight = 30
 
 [[main]]
   name = "Keynotes"
-  pageRef = "/keynotes/"
+  pageRef = "keynotes"
   weight = 30
 
 [[main]]
   name = "Program"
-  pageRef = "/program/"
+  pageRef = "program"
   weight = 40
 
 [[main]]
   name = "Awards"
-  pageRef = "/awards/"
+  pageRef = "awards"
   weight = 50
 
 [[main]]
   name = "Venue"
-  pageRef = "/venue/"
+  pageRef = "venue"
   weight = 60
 
 [[main]]
   name = "Registration"
-  pageRef = "/registration/"
+  pageRef = "registration"
   weight = 100
 
 # [[social]]
