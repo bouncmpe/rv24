@@ -5,7 +5,7 @@ paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://bouncmpe.github.io/rv24/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
