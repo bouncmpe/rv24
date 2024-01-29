@@ -63,23 +63,30 @@
         title = "Conference Information"
         layout = "list"
         sort = "weight"
-        homepage = 2
+        homepage = 6
         header = "none"
         footer = "none"
-        style = "justify-content-center"
+        style = "border-0"    
+    [sections.papers]
+        header = "none"
+        footer = "none"
     [sections.sponsors]
         title = "Sponsors"
+        sectionHeader = "justify-content-end"
         layout = "card"
         sort = "weight"
         reverse = false
         background = ""
-        style = "border-0"
-        cols = 3
+        style = "border-0 card-feature"
+        cols = 4
         padding = "3"
         header = "none"
         footer = "none"
         orientation = "stacked"
-        homepage = 3
+        homepage = 12
+    [sections.venue]
+        header = "none"
+        footer = "none"
 
 [sharing]
     enabled = true

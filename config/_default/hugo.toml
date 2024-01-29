@@ -5,7 +5,7 @@ paginate = 9
 enableGitInfo = true
 
 # additional settings
-baseURL = "/rv24"
+baseURL = "https://example.com/rv24"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true

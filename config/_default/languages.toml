@@ -3,9 +3,9 @@
     contentDir = "content"
     weight = 1
     [en.params.head]
-        tagline = "24th International Conference on Runtime Verification"
+        tagline = "The 24th International Conference on Runtime Verification"
     [en.params.social]
         title = "Runtime Verification 2024"
-        caption = "24th International Conference on Runtime Verification"
+        caption = "The 24th International Conference on Runtime Verification"
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
