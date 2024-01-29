@@ -1,6 +1,7 @@
 ---
 title: Keynotes
 metadata: none
+weight: 40
 ---
 
 {{< persona 
