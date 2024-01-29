@@ -1,11 +1,20 @@
 ---
 title: Important Dates
 metadata: none
-thumbnail: https://placehold.co/600x400/png
+thumbnail: https://yerebatan.com/wp-content/uploads/2022/12/yerebatan-00000029-kopyastg-min-5tXT-scaled.jpg
 weight: 1
 ---
 
-- Paper submission:
-- Notification: 
-- Camera-ready: 
-- Conference: 15-18 October 2023
+{{< table class="table-hover" >}}
+||||
+|-|-:|-:|
+| Paper Submission | | **May 14, 2024**        |
+| Notification     | | **June 25, 2024**       |
+| Camera-ready     | | **July 23, 2024**       |
+| Conference       | | **October 15-18, 2024** |
+{{< /table >}}
+
+<!-- - Paper submission: May 14, 2024
+- Notification: June 25, 2024
+- Camera-ready: July 23, 2024
+- Conference: October 15-18, 2024 -->

@@ -1,7 +1,7 @@
 ---
 title: Venue
 metadata: none
-thumbnail: https://placehold.co/600x400/png
+thumbnail: https://universityinnovation.org/images/4/4f/Bogazici.jpg
 weight: 2
 ---
 
