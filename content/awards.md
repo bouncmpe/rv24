@@ -1,6 +1,7 @@
 ---
 title: Awards
 metadata: none
+weight: 50
 ---
 
 {{< alert color="danger" >}}

@@ -1,6 +1,7 @@
 ---
 title: Registration
 metadata: none
+weight: 100
 ---
 
 {{< alert color="danger" >}}

@@ -1,6 +1,7 @@
 ---
 title: Conference Program
 metadata: none
+weight: 50
 ---
 
 {{< alert color="danger" >}}
