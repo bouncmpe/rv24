@@ -8,8 +8,9 @@ actions:
     title: "Call for Papers"
     #icon: "fas book-open"
     weight: 1
-  venue:
-    url: "venue"
-    title: "Venue"
-    weight: 2
+  # venue:
+  #   url: "venue"
+  #   title: "Venue"
+  #   style: rounded
+  #   weight: 2
 ---
