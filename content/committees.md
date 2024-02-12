@@ -24,8 +24,10 @@ weight: 30
 - **Davide Ancona**, University of Genoa
 - **Dejan Nickovic**, Austrian Institute of Technology (AIT)
 - **Dmitriy Traytel**, University of Copenhagen
+- **Doron Peled**, Bar-Ilan University
 - **Ezio Bartocci**, Technical University of Vienna (TU Wien)
 - **Francesca Cairoli**, University of Trieste
+- **Georgios Fainekos**, Toyota Research North America
 - **Gerardo Schneider**, Chalmers University of Gothenburg
 - **Giulia Pedrielli**, Arizona State University
 - **Gordon Pace**, University of Malta
@@ -50,6 +52,7 @@ weight: 30
 - **Süha Orhun Mutluergil**, Sabancı University
 - **Thao Dang**, CNRS/Verimag
 - **Violet Ka Pun**, Western Norway University of Applied Sciences
+- **Yliès Falcone**, Universite Grenoble Alpes
 - **Zhihao Jiang**, ShanghaiTech University
 
 ## Steering Committee
