@@ -13,6 +13,10 @@ weight: 30
 
 - **Doğan Ulus**, Boğaziçi University
 
+## Publicity Chair
+
+- **Anna Lukina**, Delft University of Technology (TU Delft)
+
 ## Program Committee
 
 - **Adrian Francalanza**, University of Malta
