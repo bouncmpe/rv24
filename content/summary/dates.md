@@ -3,6 +3,7 @@ title: Important Dates
 metadata: none
 thumbnail: https://yerebatan.com/wp-content/uploads/2022/12/yerebatan-00000029-kopyastg-min-5tXT-scaled.jpg
 weight: 1
+headless: true
 ---
 
 {{< table class="table-hover" >}}

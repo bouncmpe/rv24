@@ -60,13 +60,13 @@
 
 [sections]
     [sections.summary]
-        title = "Conference Information"
+        title = "Welcome to Runtime Verification 2024"
         layout = "list"
         sort = "weight"
-        homepage = 6
+        homepage = 3
         header = "none"
         footer = "none"
-        style = "border-0"    
+        style = "px-0"    
     [sections.papers]
         header = "none"
         footer = "none"

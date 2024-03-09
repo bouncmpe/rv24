@@ -53,9 +53,13 @@ Papers can be submitted in one of four categories: regular, short, tool, and ben
 
 - **Benchmark papers** (up to 8 pages, not including references) should describe a benchmark or benchmark generator useful for evaluating RV tools. Benchmark papers must be accompanied by an easily accessible and usable benchmark submission. The paper should describe the benchmark and its purpose, its domain, how to obtain it and use it, an argument for its usefulness to the broader RV community, and include selected results produced using the benchmark, if any. We are interested in both benchmarks from real-world scenarios and those containing synthetic data designed to achieve interesting properties. Broader definitions of benchmarks e.g. for generating specifications from data or diagnosing faults are within scope. We encourage benchmarks that are tool-agnostic, especially if they have been used to evaluate multiple tools. We also welcome benchmarks that contain verdict labels with rigorous arguments for the correctness of these verdicts, and benchmarks that are demonstrably challenging with respect to the state-of-the-art tools. 
 
+## Best Paper Award
+
 The Program Committee will give a Springer-sponsored Best Paper Award to an elected regular paper.
 
-**Special Journal Issue:** The Program Committee will invite a selection of accepted papers to submit extended versions to a special journal issue, currently planned to be in the [International Journal on Software Tools for Technology Transfer (STTT)](https://link.springer.com/journal/10009).
+## Special Journal Issue
+
+The Program Committee will invite a selection of accepted papers to submit extended versions to a special journal issue, which will appear in the [International Journal on Software Tools for Technology Transfer (STTT)](https://link.springer.com/journal/10009).
 
 ## Tutorials 
 
@@ -69,11 +73,13 @@ The deadline for tutorial papers and tutorial 2-page proposals is the same as th
 
 {{< alert color="danger" >}}
 
+**Double Blind Review**
+
 This year, submissions will be anonymous and go through a **double blind reviewing** process.
 
 Specifically, submitted papers (in all categories) must adhere to two rules: 
-1. author names and institutions must be omitted,
-2. references to authors’ own related work should be in the third person (e.g., not "We build on our previous work ..." but rather "We build on the work of ...").
+1. Author names and institutions must be omitted
+2. References to authors’ own related work should be in the third person (e.g., not "We build on our previous work ..." but rather "We build on the work of ...")
 
 {{< /alert >}}
 
@@ -88,5 +94,5 @@ The page limitations mentioned above include all text and figures, but exclude r
 
 At least one author of each accepted paper must register and present the contribution at RV 2024.
 
-All papers will appear in the conference proceedings in an LNCS volume. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. The volume is currently planned to appear in the LNCS [Formal Methods subline](https://www.springer.com/gp/computer-science/lncs/societies-and-lncs/formal-methods-/10627874).
+All papers will appear in the conference proceedings in an LNCS volume. Springer encourages authors to include their [ORCIDs](https://www.springer.com/gp/authors-editors/orcid) in their papers. The volume will appear in the LNCS [Formal Methods subline](https://www.springer.com/gp/computer-science/lncs/societies-and-lncs/formal-methods-/10627874).
 

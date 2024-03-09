@@ -93,3 +93,5 @@ home = ["HTML", "RSS"]
     target = "assets/config/netlify.toml"
   [[module.imports]]
     path = "github.com/gethinode/hinode"
+  [[module.imports]]
+    path = "github.com/gethinode/mod-leaflet"
