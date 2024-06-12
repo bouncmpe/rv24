@@ -40,7 +40,7 @@ weight: 30
 - **Julien Signoles**, CEA LIST
 - **Jyotirmoy Deshmukh**, University of South California
 - **Klaus Havelund**, NASA Jet Propulsion Laboratory
-- **Isaac Mackey, United States Marine Corps**
+- **Isaac Mackey**, United States Marine Corps
 - **Kostas Mamouras**, Rice University
 - **Laura Nenzi**, University of Trieste
 - **Lu Feng**, University of Virginia
