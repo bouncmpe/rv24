@@ -1,7 +1,7 @@
 ---
 title: Conference Venue
 metadata: none
-weight: 60
+weight: 80
 thumbnail: 
 modules: ["leaflet"]
 ---
