@@ -4,7 +4,7 @@ metadata: none
 weight: 100
 ---
 
-You can register the 24th International Conference on Runtime Verification using [EasyChair registration system](https://easychair.org/conferences/?conf=rv2024). 
+Register for the 24th International Conference on Runtime Verification using the [**EasyChair registration system**](https://easychair.org/conferences/?conf=rv2024).
 
 ## Registration fees and dates
 
