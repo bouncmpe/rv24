@@ -13,7 +13,7 @@ We are pleased to invite you to submit papers for **the 24th International Confe
 |-|-:|-:|
 | Paper Submission | | **May 28, 2024** ~~May 14, 2024~~  |
 | Notification     | | **June 25, 2024**       |
-| Camera-ready     | | **July 23, 2024**       |
+| Camera-ready     | | **August 12, 2024**       |
 | Conference       | | **October 15-18, 2024** |
 {{< /table >}}
 
