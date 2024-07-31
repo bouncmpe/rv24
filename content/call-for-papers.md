@@ -4,7 +4,7 @@ metadata: none
 weight: 20
 ---
 
-We are pleased to invite you to submit papers for **the 24th International Conference on Runtime Verification (RV 2024)**, which will take place in Istanbul, Turkey on October 15-18, 2024.
+We are pleased to invite you to submit papers for **the 24th International Conference on Runtime Verification (RV 2024)**, which will take place in Istanbul, Turkey on October 15-17, 2024.
 
 ## Important Dates
 
@@ -14,7 +14,7 @@ We are pleased to invite you to submit papers for **the 24th International Confe
 | Paper Submission | | **May 28, 2024** ~~May 14, 2024~~  |
 | Notification     | | **June 25, 2024**       |
 | Camera-ready     | | **August 12, 2024**       |
-| Conference       | | **October 15-18, 2024** |
+| Conference       | | **October 15-17, 2024** |
 {{< /table >}}
 
 ## Objectives and Scope
