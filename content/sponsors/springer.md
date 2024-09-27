@@ -1,6 +1,6 @@
 ---
-title: Springer
+title: Springer Media
 metadata: none
-thumbnail: https://logowik.com/content/uploads/images/springer-science8406.jpg
-weight: 99
+thumbnail: img/springer.png
+weight: 20
 ---
