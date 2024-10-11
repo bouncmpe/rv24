@@ -6,17 +6,19 @@ weight: 50
 
 We are excited to announce that the conference program for the 24th International Conference on Runtime Verification is now available! 
 
-You can explore the complete program for the conference, including speakers and special sessions, at the following link: 
+You can explore the full conference program, including details on speakers, special sessions, the conference brochure, and proceedings, through the following links:
 
-{{< button color="primary" tooltip="https://easychair.org/smart-program/RV2024" href="https://easychair.org/smart-program/RV2024/" class="my-4 p-4">}}
-    Conference Program
+{{< button-group aria-label="Basic example" >}}
+{{< button color="primary" outline="true" tooltip="RV24 Conference Program" href="https://easychair.org/smart-program/RV2024/" class="my-4 p-4 fw-bold">}}
+    Program
 {{< /button >}}
-
-The proceedings of the conference are available at:
-
-{{< button color="primary" tooltip="https://link.springer.com/book/9783031742330" class="my-4 p-4">}}
-    Conference Proceedings
+{{< button color="primary" outline="true" tooltip="RV24 Conference Brochure" href="/rv24/brochure.pdf" class="my-4 p-4 fw-bold">}}
+    Brochure
 {{< /button >}}
+{{< button color="primary" outline="true" tooltip="RV24 Conference Proceedings" href="https://link.springer.com/book/9783031742330" class="my-4 p-4 fw-bold">}}
+    Proceedings
+{{< /button >}}
+{{< /button-group >}}
 
 ### Tool Showcase
 
