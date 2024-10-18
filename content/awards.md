@@ -17,7 +17,7 @@ By Bernd Finkbeiner, Martin Franzle , Florian Kohn, and Paul Kroger
 And the runners-up are:
 
 {{< card-group padding="3" class="border-0" gutter="2" cols="2" >}}
-{{< card title="Towards Efficient Runtime VerifiedLinearizable Algorithms">}}
+{{< card title="Towards Efficient Runtime Verified Linearizable Algorithms">}}
 By Gilde Valeria Rodríguez and Armando Castañeda
 {{< /card >}}
 {{< card title="Dynamic, Multi-Objective Specification and Falsification of Autonomous CPS">}}
